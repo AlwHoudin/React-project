@@ -1,0 +1,11 @@
+.item-list-container {
+  margin: 20px auto;
+  width: 80%;
+  padding: 20px;
+  border: 1px solid #ddd;
+  text-align: center;
+}
+
+.item-list-container p {
+  font-size: 24px;
+}

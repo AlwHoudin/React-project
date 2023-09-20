@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+
+.navbar {
+  background-color: #333;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+}
+
+.navbar-brand {
+  font-size: 24px;
+}
+
+.cart-widget {
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.item-list-container {
+  margin: 20px auto;
+  width: 80%;
+  padding: 20px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+.item-list-container h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.item-list {
+  list-style: none;
+  padding: 0;
+}
+
+.item-list li {
+  margin-bottom: 5px;
+}
